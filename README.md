@@ -1,10 +1,10 @@
-#Getting React Set up (Recommended Method)
+# Getting React Set up (Recommended Method)
 1.Prerequisites
 ```
 Node >= 8.10
 npm >= 5.6
 ```
-##Step by Step instructions:
+## Step by Step instructions:
 ```
 *Download and install Node.js from here:(https://nodejs.org/en/download/).
  *This will enable the usage of node, npm and npx in the terminal/cmd/powershell.
@@ -13,4 +13,4 @@ npm >= 5.6
 *Run npm start
 *React should automatically launch the template app, in case it does not, go to https://localhost:3000/ on your browser to see the template React app.
 ```
-##This is the to-do-app DEMO(https://shivato-do-app.herokuapp.com/)
+## This is the to-do-app [LIVE DEMO](https://shivato-do-app.herokuapp.com/)
