@@ -13,4 +13,5 @@ npm >= 5.6
 *Run npm start
 *React should automatically launch the template app, in case it does not, go to https://localhost:3000/ on your browser to see the template React app.
 ```
+## To deploy to heroku we need to add buildpack in settings(https://github.com/mars/create-react-app-buildpack)
 ## This is the to-do-app [LIVE DEMO](https://shivato-do-app.herokuapp.com/)
